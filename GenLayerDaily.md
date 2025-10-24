@@ -34,7 +34,7 @@ Create a UNIX **username**
 Set a **password**  
 
 🔄 3. **Update and upgrade packages**  
-sudo apt update && sudo apt upgrade -y  
+```sudo apt update && sudo apt upgrade -y```  
 
 ⚙️ 4. **Install Node.js, npm, and Git**  
 ```sudo apt install -y curl git```  
